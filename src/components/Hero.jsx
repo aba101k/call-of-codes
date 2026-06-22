@@ -12,7 +12,7 @@ const TERMINAL_PHRASES = [
 ]
 
 const STATS = [
-  { value: '20%', label: 'Off 10+ Members' },
+  { value: '15%', label: 'Off 10+ Members' },
   { value: '2×', label: 'On-site + Online' },
 ]
 
