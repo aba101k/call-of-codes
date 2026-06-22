@@ -82,6 +82,7 @@ export default function Hero() {
 
       <div className="hero-stats">
         {STATS.map((stat) => (
+          <div className="stat-item" key={stat.label}>
             <div className="stat-n">{stat.value}</div>
             <div className="stat-l">{stat.label}</div>
           </div>
