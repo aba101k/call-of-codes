@@ -50,8 +50,13 @@ export default function Apply() {
           >
             IG @call_of_codes
           </MagneticButton>
-          <MagneticButton href="tel:0793754490" className="btn-outline">
-            📞 0793754490
+          <MagneticButton
+            href="https://wa.me/250793754490"
+            className="btn-outline"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            💬 WhatsApp
           </MagneticButton>
         </div>
         <div className="apply-contact">
