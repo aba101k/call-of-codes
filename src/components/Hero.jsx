@@ -12,7 +12,6 @@ const TERMINAL_PHRASES = [
 ]
 
 const STATS = [
-  { value: '25K', label: 'RWF / Internship' },
   { value: '20%', label: 'Off 10+ Members' },
   { value: '2×', label: 'On-site + Online' },
 ]
@@ -83,7 +82,6 @@ export default function Hero() {
 
       <div className="hero-stats">
         {STATS.map((stat) => (
-          <div className="stat-item" key={stat.label}>
             <div className="stat-n">{stat.value}</div>
             <div className="stat-l">{stat.label}</div>
           </div>
