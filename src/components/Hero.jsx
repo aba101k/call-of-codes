@@ -68,11 +68,16 @@ export default function Hero() {
       </p>
 
       <div className="hero-actions">
-        <MagneticButton href="#apply" className="btn-primary">
+        <MagneticButton href="mailto:callofcodesarmy@gmail.com" className="btn-primary">
           🚀 Apply Now
         </MagneticButton>
-        <MagneticButton href="tel:0793754490" className="btn-outline">
-          📞 0793754490
+        <MagneticButton
+          href="https://wa.me/250793754490"
+          className="btn-outline"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          💬 0793754490
         </MagneticButton>
       </div>
 
