@@ -48,7 +48,7 @@ export default function Apply() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            📸 @call_of_codes
+            IG @call_of_codes
           </MagneticButton>
           <MagneticButton href="tel:0793754490" className="btn-outline">
             📞 0793754490
