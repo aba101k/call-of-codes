@@ -70,9 +70,9 @@ export default function Offer() {
             ))}
           </div>
           <div className="offer-price">
-            <div className="price-amount">25K</div>
+            <div className="price-amount">30K</div>
             <div className="price-label">RWF per internship cohort</div>
-            <div className="price-disc">20% OFF for groups of 10+</div>
+            <div className="price-disc">15% OFF for groups of 10+</div>
           </div>
           <MagneticButton href="#apply" className="btn-primary">
             DM &quot;CODEARMY&quot; to Apply
